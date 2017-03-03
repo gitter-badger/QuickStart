@@ -7,6 +7,8 @@
   <img src="https://david-dm.org/scorpiocoding/QuickStart/dev-status.svg" alt="dev deps status"/>
 </a>
 
+> CHANGELOG 1.0.0, March, 2017     
+> QuickStart is in development status
 
 
 QuickStart is my current build system for Node. It is my template engine for creating websites using JS, SASS, PUG
