@@ -1,0 +1,36 @@
+{
+  "name": "QuickStart",
+  "version": "1.0.0",
+  "description": "<a href=\"https://david-dm.org/scorpiocoding/QuickStart\">\r   <img src=\"https://david-dm.org/scorpiocoding/QuickStart/status.svg\" alt=\"deps status\"/>\r </a>&nbsp;\r <a href=\"https://david-dm.org/scorpiocoding/QuickStart#info=devDependencies\">\r   <img src=\"https://david-dm.org/scorpiocoding/QuickStart/dev-status.svg\" alt=\"dev deps status\"/>\r </a>",
+  "main": "gulpfile.js",
+  "scripts": {
+    "quickstart": "npm run gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScorpioCoding/QuickStart.git"
+  },
+  "keywords": [],
+  "author": "Kribo <kribo@outlook.com> (htt://scorpiocoding.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScorpioCoding/QuickStart/issues"
+  },
+  "homepage": "https://github.com/ScorpioCoding/QuickStart#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "browserify": "^14.1.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-pug": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.9.0"
+  }
+}
