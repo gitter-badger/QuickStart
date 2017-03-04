@@ -1,7 +1,7 @@
 {
   "name": "QuickStart",
   "version": "1.0.0",
-  "description": "<a href=\"https://david-dm.org/scorpiocoding/QuickStart\">\r   <img src=\"https://david-dm.org/scorpiocoding/QuickStart/status.svg\" alt=\"deps status\"/>\r </a>&nbsp;\r <a href=\"https://david-dm.org/scorpiocoding/QuickStart#info=devDependencies\">\r   <img src=\"https://david-dm.org/scorpiocoding/QuickStart/dev-status.svg\" alt=\"dev deps status\"/>\r </a>",
+  "description": "QuickStart, a build system for Node. Creating websites using JS, SASS, PUG",
   "main": "gulpfile.js",
   "scripts": {
     "quickstart": "npm run gulp"
