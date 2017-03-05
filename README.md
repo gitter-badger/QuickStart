@@ -1,5 +1,7 @@
 # QuickStart 1.0.0
 
+[![Join the chat at https://gitter.im/scorpiocoding/QuickStart](https://badges.gitter.im/scorpiocoding/QuickStart.svg)](https://gitter.im/scorpiocoding/QuickStart?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <a href="https://david-dm.org/scorpiocoding/QuickStart">
   <img src="https://david-dm.org/scorpiocoding/QuickStart/status.svg" alt="deps status"/>
 </a>&nbsp;
